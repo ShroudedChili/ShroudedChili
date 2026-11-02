@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 <div align="center">
-👋 Hi, I’m @ShroudedChili (also known as @ChilimanTube ), IT Student based in Prague.<br>👀 I’m interested in programming, gaming, robotics, and sports, but nobody cares about that here 😂.<br>🌱 I’m currently learning Java, C#, HTML, CSS, JavaScript, React.js, Next.js, and Python.
+👋 Hi, I’m @ShroudedChili (also known as @ChilimanTube), IT Student based in Prague.<br>👀 I’m interested in programming, gaming, robotics, and sports, but nobody cares about that here 😂.<br>🌱 I’m currently learning Java, C#, HTML, CSS, JavaScript, React.js, Next.js, and Python.
 </div>
 
 ## 🌐 Socials:
